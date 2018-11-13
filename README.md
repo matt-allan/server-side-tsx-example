@@ -15,3 +15,8 @@ tsc
 » node ./dist/index.js
 <div><header><h1>TSX Example</h1></header><main>This is an example of server side TSX components.</main></div>
 ```
+
+# More Info
+
+https://www.typescriptlang.org/docs/handbook/jsx.html
+https://github.com/developit/vhtml
