@@ -18,5 +18,5 @@ tsc
 
 # More Info
 
-https://www.typescriptlang.org/docs/handbook/jsx.html
-https://github.com/developit/vhtml
+- https://www.typescriptlang.org/docs/handbook/jsx.html
+- https://github.com/developit/vhtml
