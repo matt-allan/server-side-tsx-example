@@ -11,10 +11,7 @@ tsc
 
 # Usage
 
-```
-» node ./dist/index.js
-<div><header><h1>TSX Example</h1></header><main>This is an example of server side TSX components.</main></div>
-```
+You can start the example server using `npm start`.
 
 # More Info
 
